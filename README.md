@@ -19,17 +19,17 @@ conhecer o famoso framework **Ruby on Rails**.
   * [x] 1º Projeto com Ruby
   * [x] Estruturas de Controle em Ruby
   * [x] Desafio Básico #1 Formação Ruby
-- [] Avançando na Linguagem Ruby
-  * [] Coleções em Ruby
-  * [] Cálculo com Potência em Ruby
-  * [] Métodos em Gems
-  * [] Criando programa de consulta CPF
-  * [] Desafio Básico #2 Formação Ruby
-- [] Programação Orientada a Objetos com Ruby
-  * [] Introcução à POO com Ruby
-  * [] Modelando um Domínio de Negócios com Ruby
-  * [] Desafio #3 Formação Ruby
-  * [] Criando uma Dinâmica com POO 
+- [x] Avançando na Linguagem Ruby
+  * [x] Coleções em Ruby
+  * [x] Cálculo com Potência em Ruby
+  * [x] Métodos em Gems
+  * [x] Criando programa de consulta CPF
+  * [x] Desafio Básico #2 Formação Ruby
+- [x] Programação Orientada a Objetos com Ruby
+  * [x] Introcução à POO com Ruby
+  * [x] Modelando um Domínio de Negócios com Ruby
+  * [x] Desafio #3 Formação Ruby
+  * [x] Criando uma Dinâmica com POO 
 - [] Conhecendo o Ruby on Rails
   * [] Introdução à Arquitetura MVC
   * [] Comandos básicos no Rails

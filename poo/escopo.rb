@@ -6,4 +6,4 @@ class Teste
 end
 
 teste. = Teste.new
-teste.local
+teste.local 

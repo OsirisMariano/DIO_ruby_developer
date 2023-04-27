@@ -30,7 +30,7 @@ conhecer o famoso framework **Ruby on Rails**.
   * [x] Modelando um Domínio de Negócios com Ruby
   * [x] Desafio #3 Formação Ruby
   * [x] Criando uma Dinâmica com POO 
-- [] Conhecendo o Ruby on Rails
+- [x] Conhecendo o Ruby on Rails
   * [] Introdução à Arquitetura MVC
   * [] Comandos básicos no Rails
   * [] Criando um blog
